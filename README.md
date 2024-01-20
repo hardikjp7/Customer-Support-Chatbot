@@ -1,4 +1,3 @@
-```markdown
 # Customer Support Chatbot
 
 This project implements a Customer Support Chatbot using Selenium for data extraction and language models. It efficiently processes and segments content, performs similarity searches using FAISS, and deploys a question-answering model from Hugging Face. 
@@ -54,5 +53,4 @@ Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn
 ## Apache License 2.0
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
-```
 
