@@ -48,7 +48,7 @@ When you permanently delete your Spotify account, all of your data will be erase
 
 ## LinkedIn
 
-Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&colorB=2867B2)](https://www.linkedin.com/in/your-linkedin-profile)
+Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&colorB=2867B2)](https://www.linkedin.com/in/hardikjp/)
 
 ## Apache License 2.0
 
